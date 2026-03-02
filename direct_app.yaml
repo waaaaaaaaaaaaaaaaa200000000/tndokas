@@ -1,0 +1,42 @@
+payload:
+  - PROCESS-NAME,srcds.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,GIAcceler.exe
+  - PROCESS-NAME,QQGuild.exe
+  - PROCESS-NAME,TXPlatform.exe
+  - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,Steam++.exe
+  - PROCESS-NAME,SogouCloud.exe
+  - PROCESS-NAME,SGTool.exe
+  - PROCESS-NAME,pservice.exe
+  - PROCESS-NAME,parsecd.exe
+  - PROCESS-NAME,GameViewerServer.exe
+  - PROCESS-NAME,GameViewerService.exe
+  - PROCESS-NAME,Steam++.Accelerator.exe
+  - PROCESS-NAME,WeChatAppEx.exe
+  - PROCESS-NAME,game.exe
+  - PROCESS-NAME,bililive_browser.exe
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,TeamSpeak.exe
+  - PROCESS-NAME,ts3client_win64.exe
+  - PROCESS-NAME,steamcmd.exe
+  - PROCESS-NAME,chfs.exe
+  - PROCESS-NAME,hfs.exe
+  - PROCESS-NAME,Calabiyau-Win64-Shipping.exe
+  - PROCESS-NAME,CalabiYau.exe
+  - PROCESS-NAME,KOOK.exe
+  - PROCESS-NAME,GameViewerServer.exe
+  - PROCESS-NAME,GameViewerService.exe
+  - PROCESS-NAME,DownloadServer.exe
+  - PROCESS-NAME,SGuardUpdate64.exe
+  - PROCESS-PATH,C:\Program Files\AntiCheatExpert\SGuard\x64\SGuard64.exe
+  - PROCESS-PATH,C:\Program Files\AntiCheatExpert\SGuard\x64\SGuardSvc64.exe
+  - PROCESS-NAME,obs64.exe
+  - PROCESS-NAME,livehime.exe
+  - PROCESS-NAME,点我启动游戏.exe
+  - PROCESS-NAME,GIAcceler.exe
+  - PROCESS-NAME,gr_global_launcher.exe
+  - PROCESS-NAME,FateTrigger.exe
+  - PROCESS-NAME,S1Game-Win64-Shipping.exe
+  - PROCESS-NAME,csgo.exe
+  - PROCESS-NAME,cs2.exe
