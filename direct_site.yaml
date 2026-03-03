@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,pphimalayanrt.com
   - DOMAIN-SUFFIX,queniujq.cn
   - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,ggchan.dev
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
   - DOMAIN,cdn.steamstatic.com.8686c.com
@@ -47,4 +48,3 @@ payload:
   - DOMAIN,test.seele.moe
   - DOMAIN,cs.sunmirbq.online
   - DOMAIN,test.steampowered.com
-  - DOMAIN,ggchan.dev
