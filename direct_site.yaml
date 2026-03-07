@@ -47,4 +47,9 @@ payload:
   - DOMAIN-KEYWORD,kxnrl
   - DOMAIN,test.seele.moe
   - DOMAIN,cs.sunmirbq.online
-  - DOMAIN,test.steampowered.com
+  - DOMAIN,smtp-mail.outlook.com
+  - DOMAIN,smtp.gmail.com
+  - DOMAIN,smtp.naver.com
+  - DOMAIN,outlook.office365.com
+  - DOMAIN,smtp.mail.yahoo.com
+  - DOMAIN,smtp.office365.com
