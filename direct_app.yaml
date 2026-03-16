@@ -29,6 +29,7 @@ payload:
   - PROCESS-NAME,GameViewerService.exe
   - PROCESS-NAME,DownloadServer.exe
   - PROCESS-NAME,SGuardUpdate64.exe
+  = PROCESS-NAME,baidunetdiskhost.exe
   - PROCESS-PATH,C:\Program Files\AntiCheatExpert\SGuard\x64\SGuard64.exe
   - PROCESS-PATH,C:\Program Files\AntiCheatExpert\SGuard\x64\SGuardSvc64.exe
   - PROCESS-NAME,obs64.exe
