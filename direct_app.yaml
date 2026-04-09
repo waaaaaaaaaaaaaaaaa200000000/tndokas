@@ -33,6 +33,7 @@ payload:
   = PROCESS-NAME,baidunetdiskhost.exe
   - PROCESS-PATH,C:\Program Files\AntiCheatExpert\SGuard\x64\SGuard64.exe
   - PROCESS-PATH,C:\Program Files\AntiCheatExpert\SGuard\x64\SGuardSvc64.exe
+  - PROCESS-PATH,X:\NIkke_马服\胜利女神：新的希望(2002017)\nikke.exe
   - PROCESS-NAME,obs64.exe
   - PROCESS-NAME,livehime.exe
   - PROCESS-NAME,点我启动游戏.exe
