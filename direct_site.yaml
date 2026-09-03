@@ -1,7 +1,4 @@
 payload:
-  - DOMAIN,steamcdn-a.akamaihd.net
-  - DOMAIN,gemini.beijixingxing.com
-  - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
   - IP-CIDR,45.121.184.0/24
   - IP-CIDR,103.10.124.0/23
@@ -43,13 +40,3 @@ payload:
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,baidupan.com
   - DOMAIN-SUFFIX,weiyun.com
-  - DOMAIN-KEYWORD,aria2
-  - DOMAIN-KEYWORD,kxnrl
-  - DOMAIN,test.seele.moe
-  - DOMAIN,cs.sunmirbq.online
-  - DOMAIN,smtp-mail.outlook.com
-  - DOMAIN,smtp.gmail.com
-  - DOMAIN,smtp.naver.com
-  - DOMAIN,outlook.office365.com
-  - DOMAIN,smtp.mail.yahoo.com
-  - DOMAIN,smtp.office365.com
