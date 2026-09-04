@@ -35,6 +35,7 @@ payload:
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
   - DOMAIN,cdn.steamstatic.com.8686c.com
+  - DOMAIN,cdn.akamai.steamstatic.com
   - DOMAIN-KEYWORD,steamchina
   - DOMAIN-KEYWORD,klbq
   - DOMAIN-SUFFIX,hdslb.com
