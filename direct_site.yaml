@@ -30,12 +30,20 @@ payload:
   - DOMAIN-SUFFIX,baishancdnx.cn
   - DOMAIN-SUFFIX,pphimalayanrt.com
   - DOMAIN-SUFFIX,queniujq.cn
+  - DOMAIN-SUFFIX,queniuqe.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,ggchan.dev
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
+  - DOMAIN,steamcloud-ugc-sgp.oss-accelerate.aliyuncs.com
+  - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
+  - DOMAIN,st-bak.viv.wanwang.space
+  - DOMAIN,trts.baishancdnx.cn
+  - DOMAIN,st.dl.bscstorage.net
   - DOMAIN,cdn.steamstatic.com.8686c.com
   - DOMAIN,cdn.akamai.steamstatic.com
+  - DOMAIN,upos-hz-mirrorakam.akamaized.net
+  - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN-KEYWORD,steamchina
   - DOMAIN-KEYWORD,klbq
   - DOMAIN-SUFFIX,hdslb.com
