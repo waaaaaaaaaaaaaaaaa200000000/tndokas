@@ -44,8 +44,11 @@ payload:
   - DOMAIN,cdn.akamai.steamstatic.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
   - DOMAIN,steamusercontent-a.akamaihd.net
+  - DOMAIN,dl.delivery.mp.microsoft.com
+  - DOMAIN,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-KEYWORD,steamchina
   - DOMAIN-KEYWORD,klbq
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,baidupan.com
   - DOMAIN-SUFFIX,weiyun.com
+  - DOMAIN-SUFFIX,xboxlive.cn
