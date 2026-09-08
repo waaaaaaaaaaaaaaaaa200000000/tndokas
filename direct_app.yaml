@@ -40,5 +40,6 @@ payload:
   - PROCESS-NAME,GIAcceler.exe
   - PROCESS-NAME,gr_global_launcher.exe
   - PROCESS-NAME,FateTrigger.exe
+  - PROCESS-NAME,DolphinQ.exe
   - PROCESS-NAME,S1Game-Win64-Shipping.exe
   - PROCESS-NAME,UsbEAm Hosts Editor.exe
