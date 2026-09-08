@@ -34,6 +34,8 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,ggchan.dev
   - DOMAIN-SUFFIX,htjsq.com
+  - DOMAIN-SUFFIX,qiyou.cn
+  - DOMAIN-SUFFIX,qijihezi.cn
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,steamcloud-ugc-hkg.oss-accelerate.aliyuncs.com
   - DOMAIN,steamcloud-ugc-sgp.oss-accelerate.aliyuncs.com
