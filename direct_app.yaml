@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,srcds.exe
+  - PROCESS-NAME,vconsole2.exe
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,GIAcceler.exe
   - PROCESS-NAME,QQGuild.exe
