@@ -51,6 +51,7 @@ payload:
   - DOMAIN,tlu.dl.delivery.mp.microsoft.com
   - DOMAIN-KEYWORD,steamchina
   - DOMAIN-KEYWORD,klbq
+  - DOMAIN-KEYWORD,sukaka
   - DOMAIN-SUFFIX,hdslb.com
   - DOMAIN-SUFFIX,baidupan.com
   - DOMAIN-SUFFIX,weiyun.com
